@@ -81,7 +81,7 @@ El proyecto introduce a **RIHO**, la mascota y asistente virtual del equipo de s
 
 2.  **Instalación:**
     ```bash
-    git clone [https://github.com/tu-usuario/RIHO-Enterprise.git](https://github.com/tu-usuario/RIHO-Enterprise.git)
+    git clone [https://github.com/desarrolladorHO/RIHO-Enterprise.git](https://github.com/desarrolladorHO/RIHO-Enterprise.git)
     ```
 
 3.  **Base de Datos:**
